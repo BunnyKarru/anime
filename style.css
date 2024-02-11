@@ -52,3 +52,15 @@ h1{
 
 
 }
+@media only screen and (max-width: 500px) {
+
+    #eren{
+        height: 300px;
+    }
+    h1{
+        font-size: 100px;
+    }
+   
+
+
+}
